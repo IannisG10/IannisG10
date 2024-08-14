@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi I'm GUERRA👋I'm a 2nd-year Software Engineering student with a love for Dévelopement.
 
-<!--
-**IannisG10/IannisG10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies & Tools
+-JavaScript
+-MERN Stack
 
 Here are some ideas to get you started:
 
