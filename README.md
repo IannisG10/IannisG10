@@ -10,6 +10,7 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="75" height="75"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="100" height="100"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Logo" width="75" height="75">
 
 
+Mon GitHub est le reflet de mon voyage dans le monde du développement, avec des projets allant des applications web à des jeux interactifs. J'espère que vous trouverez mon travail intéressant et inspirant.
 
 
 
