@@ -6,10 +6,11 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java Logo" width="75" height="75">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="75" height="75" />
 
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask Logo" width="75"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="75" height="75"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Tkinter Logo" width="200">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask Logo" width="75"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="75" height="75">
 
 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="75" height="75"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="100" height="100"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Logo" width="75" height="75">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="75" height="75"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="100" height="100"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Logo" width="75" height="75"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vercel_logo_white.svg/2560px-Vercel_logo_white.svg.png" alt="Vercel Logo" width="75"/>
+
 
 
 Mon GitHub est le reflet de mon voyage dans le monde du développement, avec des projets allant des applications web à des jeux interactifs. J'espère que vous trouverez mon travail intéressant et inspirant.
