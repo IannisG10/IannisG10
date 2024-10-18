@@ -11,7 +11,8 @@
 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="75" height="75"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="100" height="100"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Logo" width="75" height="75">
 
-![GUERRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical)
+![GUERRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=IannisG10&theme=dark)
+
 
 
 
