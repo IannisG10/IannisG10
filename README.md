@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React single page
 - 🌱 I’m currently learning Java
-- 💬 Ask me about React.js
+- 💬 Ask me about React.js and TypeScript
 
 - ⚡ Fun fact: Solve problems
 -->
