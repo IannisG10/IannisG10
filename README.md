@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IannisG10&theme=dracula)
+![Progress](https://progress-bar.dev/75/?title=React&width=200&color=blue&suffix=%)
 
 ![GUERRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=IannisG10&theme=dark)
 
