@@ -25,6 +25,8 @@
 [![Vercel](https://vercelbadge.vercel.app/api/your-vercel-project)](https://vercel.com/your-vercel-project)
 
 
+![Vercel](https://img.shields.io/static/v1?label=Vercel&message=Déployé&color=black&logo=vercel)
+
 
 ![GUERRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=IannisG10&theme=dark)
 
