@@ -22,9 +22,8 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/static/v1?label=Vercel&message=Déployé&color=black&logo=vercel)
-![Vercel Logo](https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png)
-![Vercel](https://img.shields.io/badge/Deploy%20with-Vercel-000?logo=vercel&style=for-the-badge)
+
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&style=for-the-badge)
 
 
 
