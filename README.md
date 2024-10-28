@@ -2,6 +2,15 @@
 
 ## 🛠️ Technologies & Tools
 
+## Projets déployés## 🌐 Projets Déployés
+
+| Projet                    | Description                                                   | Lien                                                                |
+|---------------------------|---------------------------------------------------------------|---------------------------------------------------------------------|
+| **TodoList**              | Application pour gérer vos tâches quotidiennes                | [Voir en ligne 🌐](https://taskly-one-ashy.vercel.app/)              |
+|            | |                              |                                                                      |
+
+
+
 
 
 
