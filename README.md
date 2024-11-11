@@ -40,6 +40,9 @@
 
 ![GUERRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=IannisG10&theme=dark)
 
+## 📊 Mon Activité
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical)
+
 
 
 
