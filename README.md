@@ -8,7 +8,9 @@
 |---------------------------|---------------------------------------------------------------|---------------------------------------------------------------------|
 | **TodoList**              | Application pour gérer vos tâches quotidiennes                | [Voir en ligne 🌐](https://taskly-one-ashy.vercel.app/)              |
 |            | |                              |                                                                      |
-|Concept Junior| Le site vitrine du magasin de smartphones Concept Junior |[Voir en ligne 🌐](https://concept-junior.vercel.app/)
+|**Concept Junior**| Le site vitrine du magasin de smartphones Concept Junior |[Voir en ligne 🌐](https://concept-junior.vercel.app/)
+|            | |            |                  |
+ **My Portfolio**|Visit my personnal portfolio and get a consultation |[Voir en ligne 🌐](https://iannis-g-portfolio.vercel.app/)
 
 
 
