@@ -31,6 +31,7 @@
 
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Formstyle=for-the-badge&logo=reacthookform&logoColor=white)
 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-ff69b4?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 
 
