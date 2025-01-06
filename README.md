@@ -28,8 +28,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Axios](https://img.shields.io/badge/AxiosHTTP-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form?style=for-the-badge&logo=reacthookform)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-v7.44.5-ff69b4?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Formstyle=for-the-badge&logo=reacthookform&logoColor=white)
 
 
 
