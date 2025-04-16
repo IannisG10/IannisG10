@@ -56,7 +56,7 @@
 
 ![GUERRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=IannisG10&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IannisG10R&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IannisG10&layout=compact&theme=tokyonight)
 
 ## 📊 Mon Activité
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical)
