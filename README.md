@@ -13,6 +13,8 @@
  **My Portfolio**|Visit my personnal portfolio and get a consultation |[Voir en ligne 🌐](https://iannis-g-portfolio--one.vercel.app/)
  |            | |            |                  |
  **EveryWare**|A web app to manage the client in EveryWare facebook page |en cours...
+ |            | |            |                  |
+ **Chat App**|A message application|
 
 
 
