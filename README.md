@@ -14,7 +14,7 @@
  |            | |            |                  |
  **EveryWare**|A web app to manage the client in EveryWare facebook page |en cours...
  |            | |            |                  |
- **Chat App**|A message application|
+ **Chat App**|A message application which can put in relation with friends | en cours...
 
 
 
