@@ -68,3 +68,12 @@
 
 
 
+Projet | Description | Lien
+TodoList | Application pour gérer vos tâches quotidiennes | Voir en ligne 🌐
+Concept Junior | Site vitrine du magasin de smartphones Concept Junior | Voir en ligne 🌐
+My Portfolio | Mon portfolio personnel avec option de consultation | Voir en ligne 🌐
+EveryWare | Application web pour gérer les clients sur la page Facebook | En cours de développement...
+Chat App | Application de messagerie pour communiquer avec des amis | En cours de développement...
+
+
+
