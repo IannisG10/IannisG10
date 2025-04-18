@@ -18,29 +18,6 @@
 
 
 
-
-
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&style=for-the-badge)
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-
-![GUERRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=IannisG10&theme=dark)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IannisG10&layout=compact&theme=tokyonight)
-
-## 📊 Mon Activité
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical)
-
-
-
-
 <h1 align="center">Salut 👋, moi c'est Iannis</h1>
 <h3 align="center">Développeur Fullstack passionné, créatif et toujours prêt à apprendre 💡</h3>
 
@@ -91,5 +68,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical" alt="stats github" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IannisG10&layout=compact&theme=tokyonight" alt="langages les plus utilisés" height="165"/>
 </p>
+
+## 📊 Mon Activité
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical)
 
 
