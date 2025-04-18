@@ -68,12 +68,87 @@
 
 
 
-Projet | Description | Lien
-TodoList | Application pour gérer vos tâches quotidiennes | Voir en ligne 🌐
-Concept Junior | Site vitrine du magasin de smartphones Concept Junior | Voir en ligne 🌐
-My Portfolio | Mon portfolio personnel avec option de consultation | Voir en ligne 🌐
-EveryWare | Application web pour gérer les clients sur la page Facebook | En cours de développement...
-Chat App | Application de messagerie pour communiquer avec des amis | En cours de développement...
+<!-- README.md animé -->
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 
+  Salut, moi c’est Iannis (aka GUERRA)
+</h1>
+
+<h3 align="center">Développeur Fullstack passionné par le code, le design & l'innovation 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Créateur+de+projets+modernes.;Fan+de+React+et+MongoDB.;Toujours+prêt+à+apprendre.;Let’s+build+something+great+!" alt="Typing SVG" />
+</p>
+
+---
+
+### ⚡ Projets en ligne
+
+| 🌟 Projet             | 🧾 Description                                               | 🔗 Lien                                                          |
+|----------------------|-------------------------------------------------------------|------------------------------------------------------------------|
+| ✅ **TodoList**       | Application claire pour bien organiser ses tâches 🧠         | 👉 [Tester ici](https://newtaskly.vercel.app/)                   |
+| 🧒 **Concept Junior** | Site vitrine d’un magasin d’habillement pour enfants 👕     | 👉 [Voir ici](https://concept-junior.vercel.app/)                |
+| 💼 **Portfolio**      | Mon espace pro avec une belle interface animée ✨            | 👉 [Découvrir](https://iannis-g-portfolio--one.vercel.app/)      |
+| 💬 **Chat App**       | Appli de messagerie instantanée (WIP)                        | 🚧 En cours de développement                                     |
+| 📊 **EveryWare**      | Dashboard pour la gestion client depuis Facebook Messenger   | 🚧 En cours de développement                                     |
+
+---
+
+### 🧠 Stack actuelle
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,flask" />
+</p>
+
+---
+
+### 🎨 Outils & Librairies préférées
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vercel,postman,vscode,redux,figma" />
+</p>
+
+---
+
+### 📈 Mes stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IannisG10&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
+</p>
+
+---
+
+### 🔥 Un peu d’animation pour pimper le profil
+
+<p align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300" />
+</p>
+
+---
+
+### 🤝 Me contacter
+
+- 📩 **Mail** : iannis@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ton-profil) *(à remplacer)*  
+- 🌐 [Mon site](https://iannis-g-portfolio--one.vercel.app/)  
+
+---
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&qColor=%23fff&aColor=%23FF5E5B&borderColor=%23fff" alt="Random Joke" />
+</p>
+
+---
+
+<details>
+  <summary>✨ Un secret ? Clique ici...</summary>
+  <br />
+  J’ai une obsession pour les designs minimalistes avec un brin d’animation 😎  
+  Et je bosse sur un petit SaaS 👀
+</details>
+
 
 
 
