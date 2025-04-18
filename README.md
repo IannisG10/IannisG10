@@ -93,15 +93,3 @@
 </p>
 
 
-Mon GitHub est le reflet de mon voyage dans le monde du développement, avec des projets allant des applications web à des jeux interactifs. J'espère que vous trouverez mon travail intéressant et inspirant.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on React single page
-- 🌱 I’m currently learning Java
-- 💬 Ask me about React.js and TypeScript
-
-- ⚡ Fun fact: Solve problems
--->
