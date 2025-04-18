@@ -1,6 +1,3 @@
-## Hi I'm GUERRA👋I'm a 2nd-year Software Engineering student with a love for Dévelopement.
-
-## 🛠️ Technologies & Tools
 
  🌐 Projets Déployés
 
@@ -69,7 +66,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IannisG10&layout=compact&theme=tokyonight" alt="langages les plus utilisés" height="165"/>
 </p>
 
-## 📊 Mon Activité
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical)
 
 
