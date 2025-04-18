@@ -21,6 +21,16 @@
 
 
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&style=for-the-badge)
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+
+![GUERRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=IannisG10&theme=dark)
+
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,22 +58,63 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&style=for-the-badge)
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-
-![GUERRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=IannisG10&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IannisG10&layout=compact&theme=tokyonight)
 
 ## 📊 Mon Activité
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical)
 
 
+
+
+<h1 align="center">Salut 👋, moi c'est Iannis</h1>
+<h3 align="center">Développeur Fullstack passionné, créatif et toujours prêt à apprendre 💡</h3>
+
+---
+
+### 🧠 À propos de moi
+
+- 🎓 Je suis un passionné de **développement web fullstack**, toujours curieux des dernières technos.
+- 🛠️ Actuellement, je bosse sur des projets utilisant **MERN stack + Next.js**.
+- 🚀 Mon but ? Créer des interfaces propres, rapides, et une expérience utilisateur fluide.
+- 🎯 J'adore le **clean code**, les **UI animées**, et les **défis tech**.
+
+---
+
+### 🛠️ Stack & Technologies
+
+#### 👨‍💻 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-5858FD?style=flat-square&logo=framer&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+
+#### 🧰 Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+#### 🧪 Outils & Autres
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📈 Mes Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IannisG10&show_icons=true&theme=radical" alt="stats github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IannisG10&layout=compact&theme=tokyonight" alt="langages les plus utilisés" height="165"/>
+</p>
 
 
 Mon GitHub est le reflet de mon voyage dans le monde du développement, avec des projets allant des applications web à des jeux interactifs. J'espère que vous trouverez mon travail intéressant et inspirant.
