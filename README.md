@@ -40,7 +40,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-[![zod](https://img.shields.io/npm/v/zod)](https://www.npmjs.com/package/zod)
+![Zod](https://img.shields.io/badge/Zod-3.22.4-8e75ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzhlNzVmZiIvPjx0ZXh0IHg9IjgiIHk9IjE2IiBmb250LXNpemU9IjExIiBmaWxsPSIjZmZmIj5aPC90ZXh0Pjwvc3ZnPg==)
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-%235858FD?style=for-the-badge&logo=framer&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-ff69b4?style=for-the-badge&logo=reacthookform&logoColor=white)
