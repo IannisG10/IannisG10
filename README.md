@@ -76,7 +76,7 @@
   <img src="https://streak-stats.demolab.com?user=IannisG10&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=18" height="170" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IannisG10&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 
 
 
