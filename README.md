@@ -24,7 +24,7 @@
 ### 🧠 À propos de moi
 
 - 🛠️ Actuellement, je bosse sur des projets utilisant **MERN stack + Next.js**.
-- 🚀 Mon but ? Créer des interfaces propres, rapides, et une expérience utilisateur fluide.
+- Mon but ? Créer des interfaces propres, rapides, et une expérience utilisateur fluide.
 - 🎯 J'adore le **clean code**, les **UI animées**, et les **défis tech**.
 
 ---
@@ -84,9 +84,6 @@
 
 ### 🎨 Outils & Librairies préférées
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vercel,postman,vscode,redux,figma" />
-</p>
 
 
 
