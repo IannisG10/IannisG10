@@ -23,7 +23,6 @@
 
 ### 🧠 À propos de moi
 
-- 🎓 Je suis un passionné de **développement web fullstack**, toujours curieux des dernières technos.
 - 🛠️ Actuellement, je bosse sur des projets utilisant **MERN stack + Next.js**.
 - 🚀 Mon but ? Créer des interfaces propres, rapides, et une expérience utilisateur fluide.
 - 🎯 J'adore le **clean code**, les **UI animées**, et les **défis tech**.
