@@ -84,16 +84,6 @@
 
 
 
-### 🎨 Outils & Librairies préférées
-
-
-
-
-
-
-
-
-
 
 
 
