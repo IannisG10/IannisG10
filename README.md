@@ -8,7 +8,7 @@
 |  **TodoList**       | Application claire pour bien organiser ses tâches 🧠         | 👉 [Tester ici](https://newtaskly.vercel.app/)                   |
 |  **Concept Junior** | Site vitrine d’un magasin d’habillement pour enfants 👕     | 👉 [Voir ici](https://concept-junior.vercel.app/)                |
 |  **Portfolio**      | Mon espace pro avec une belle interface animée ✨            | 👉 [Découvrir](https://iannis-g-portfolio--one.vercel.app/)      |
-|  **Chat App**       | Appli de messagerie instantanée (WIP)                        | 🚧 En cours de développement                                     |
+|  **Chat App**       | Appli de messagerie instantanée                         | 🚧 En cours de développement                                     |
 |  **EveryWare**      | Dashboard pour la gestion client depuis Facebook Messenger   | 🚧 En cours de développement                                     |
 
 
