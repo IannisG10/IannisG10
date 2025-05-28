@@ -17,7 +17,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 
   Salut, moi c’est Iannis (aka GUERRA)
 </h1>
-<h3 align="center">Développeur Fullstack passionné, créatif et toujours prêt à apprendre 💡</h3>
 
 ---
 
