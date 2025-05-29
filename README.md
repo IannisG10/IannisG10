@@ -18,6 +18,8 @@
   Salut, moi c’est Iannis (aka GUERRA)
 </h1>
 
+*Développeur Front-end*
+
 ---
 
 ### 🧠 À propos de moi
